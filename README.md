@@ -1,12 +1,10 @@
-# sqlalchemy-challenge
-
-# Module 10 Challende
+# sqlalchemy
 
 This project demonstrates the usage of SQLAlchemy to interact with a database.
 
 ## Description
 
-This project showcases how to use SQLAlchemy, a Python SQL toolkit and Object-Relational Mapping (ORM) library, to interact with a database. It provides an analysis about the climate data of Honolulu, Hawaii. 
+This project showcases how to use SQLAlchemy, a Python SQL toolkit and Object-Relational Mapping (ORM) library, to interact with a database. It provides an analysis of the climate data of Honolulu, Hawaii. 
 This project also contains a design for a Climate App.
 
 ## Features
