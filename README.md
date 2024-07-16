@@ -1,4 +1,4 @@
-# sqlalchemy
+# SQLAlchemy
 
 This project demonstrates the usage of SQLAlchemy to interact with a database.
 
